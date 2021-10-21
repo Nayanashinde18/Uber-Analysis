@@ -1,5 +1,7 @@
 # Uber-Analysis
-Uber data analysis with various aspects
+Uber data analysis with various aspects.
+
+
 **Introduction:**
   This data set is a masked data set which is similar to what data analysts at Uber handle. Solving
   this assignment will give you an idea about how problems are systematically solved using EDA
@@ -12,6 +14,9 @@ Uber data analysis with various aspects
   of the problem(s) and recommend ways to improve them.
 
 The code is written in a Jupyter Notebook with a Python 2.7 kernel, and in addition it requires the following packages:
+
   Pandas (version: 0.19.2)
+  
   Matplotlib (version: 1.5.3)
+  
   Seaborn (version: 0.6.0)
