@@ -13,7 +13,7 @@ Uber data analysis with various aspects.
   analysis, you should be able to present to the client the root cause(s) and possible hypotheses
   of the problem(s) and recommend ways to improve them.
 
-The code is written in a Jupyter Notebook with a Python 2.7 kernel, and in addition it requires the following packages:
+The code is written in a Jupyter Notebook with a Python 3 kernel, and in addition it requires the following packages:
 
   Pandas (version: 0.19.2)
   
